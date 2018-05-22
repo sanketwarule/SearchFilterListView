@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="stateNames">
+        <item>Arunachal Pradesh</item>
+        <item>Andhra Pradesh</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Goa</item>
+        <item>Delhi</item>
+        <item>Dehradun</item>
+        <item>Himachal Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Madhya Pradesh</item>
+        <item>Orrisa</item>
+        <item>Rajasthan</item>
+        <item>Gujarat</item>
+        <item>kerala</item>
+        <item>Tamilnadu</item>
+    </array>
+</resources>
